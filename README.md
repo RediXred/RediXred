@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 
 📍 Saint Petersburg • 📧 xred337@gmail.com • ✉️ Telegram: @g4grey  
 -->
+<!--
 <div align="center">
   <img src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="Banner" width="800"/>
-</div>
+</div> -->
 
-<h1 align="center">Hi there, I'm Gleb 👋</h1>
+<h1 align="center">Hi there, I'm Gleb <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">Python & C/C++ Developer from Saint-Petersburg | Backend & System Programming</h3>
 
-<!-- Кнопки соцсетей -->
+<!-- Кнопки соцсетей 
 <p align="center">
   <a href="https://t.me/g4grey">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -31,13 +32,24 @@ Here are some ideas to get you started:
   <a href="mailto:xred337@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>-->
+
+<p align="center">
+  <a href="mailto:xred337@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://t.me/g4grey"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/RediXred"><img src="https://img.shields.io/github/followers/RediXred?label=Follow&style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
+### <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="30"> About Me
+My name is Gleb and I'm a focused on Web Developing. I'm from Russia, living in Saint-Petersburg.
+
+---
+
 ### 🎓 Education  
-**Bachelor’s in Information Security**  
-Polytechnic University, Saint Petersburg   
+**Bachelor’s in Information Security<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**  
+<i>Polytechnic University, Saint-Petersburg</i>
 
 ---
 
@@ -65,7 +77,12 @@ Polytechnic University, Saint Petersburg
 
 ---
 
-📊 **GitHub Stats:**  
-[![RediXred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RediXred&show_icons=true&theme=radical)](https://github.com/RediXred)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RediXred&layout=compact&theme=radical)](https://github.com/RediXred) 
+<div align="center">
+<h3>📊 GitHub Stats</h3>
+</div>
+<div align="center">
+  <a href="https://github.com/RediXred">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RediXred&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RediXred&layout=compact&theme=radical"/>
+  </a>
+</div>
