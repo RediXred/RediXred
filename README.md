@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RediXred/RediXred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# GLEB SEROV
+<!--# GLEB SEROV
 
-📍 Saint Petersburg • 📧 xred337@gmail.com • 📞 +79132056035 • ✉️ Telegram: @g4grey  
+📍 Saint Petersburg • 📧 xred337@gmail.com • ✉️ Telegram: @g4grey  
+-->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="Banner" width="800"/>
+</div>
+
+<h1 align="center">Hi there, I'm Gleb 👋</h1>
+<h3 align="center">Python & C/C++ Developer from Saint-Petersburg | Backend & System Programming</h3>
+
+<!-- Кнопки соцсетей -->
+<p align="center">
+  <a href="https://t.me/g4grey">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:xred337@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
