@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gleb Serov</h1>
 
 <p align="center">
-  Information Security student focused on C/C++, Python and systems programming
+  Python Backend Developer
 </p>
 
 <p align="center">
@@ -17,26 +17,14 @@
 
 ## About me
 
-I am an Information Security student at Peter the Great St. Petersburg Polytechnic University.
-
-My main interests are systems programming, operating systems, computer networks and secure software development. I use C/C++ to study low-level programming concepts and Python to build automation tools and security-oriented applications.
-
-## Areas of interest
-
-- Systems programming with C and C++
-- Python development and automation
-- Linux and operating system fundamentals
-- Computer networks
-- Application and software security
-- Algorithms and data structures
-- Backend development fundamentals
+Building backend services (Python, FastAPI, asyncio)
+Interested in distributed systems, microservices, and software architecture
+Interested in infrastructure automation, observability, and system reliability
 
 ## Technologies
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -46,19 +34,15 @@ My main interests are systems programming, operating systems, computer networks 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-## Currently learning
-
-- Data structures and algorithms
-- Operating system and Linux internals
-- Concurrent and asynchronous programming
-- Secure application development
-- Backend development
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 ## Education
 
-**Bachelor's degree in Information Security**  
-Peter the Great St. Petersburg Polytechnic University  
-2022–2026
+**ITMO University** — Master's Degree  
+Industrial Backend Development · 2026–2028
+
+**Peter the Great St. Petersburg Polytechnic University** — Bachelor's Degree  
+Information Security · 2022–2026
 
 ---
